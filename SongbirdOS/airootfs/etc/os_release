@@ -1,0 +1,12 @@
+NAME="SongbirdOS Linux x86_64"
+PRETTY_NAME="SongbirdOS"
+ID="songbirdos"
+ID_LIKE="arch"
+BUILD_ID=Swallow
+ANSI_COLOR="0;35"
+HOME_URL="https://songbird-project.github.io"
+DOCUMENTATION_URL="https://songbird-project.github.io/wiki"
+SUPPORT_URL="https://github.com/orgs/Songbird-Project/discussions/categories/support"
+BUG_REPORT_URL="https://github.com/Songbird-Project/SongbirdOS-ISO/issues"
+PRIVACY_POLICY_URL="https://endeavouros.com/privacy-policy-2"
+LOGO="songbirdos"
