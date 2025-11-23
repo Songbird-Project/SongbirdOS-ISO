@@ -1,5 +1,6 @@
 base
 booster
+busybox
 linux
 nushell
 openssh
