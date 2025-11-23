@@ -14,6 +14,6 @@ no longer up for discussion unless a reason is seen fit.
 
 The current release name is: **Swallow**
 
-| Semantic Version | Release Name | Release Date |
+| Semantic Version | Release Name | Stable Release Date |
 | --------------- | --------------- | --------------- |
 | 1.0.0 | Swallow | TBD |
