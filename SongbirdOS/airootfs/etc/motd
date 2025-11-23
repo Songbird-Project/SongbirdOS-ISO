@@ -1,0 +1,11 @@
+\e[0;35m===============================================\e[0m
+\e[0;35m||    This is an early build of \e[0;35mSongbirdOS\e[0m  ||\e[0m
+\e[0;35m||  Things will change and an installer will ||\e[0m
+\e[0;35m||   will be added along with our own docs.  ||\e[0m
+\e[0;35m===============================================\e[0m
+
+Welcome to \e[0;35mSongbirdOS\e[0m. To install please follow the \e[0;34mArch Linux\e[0m install guide:
+https://wiki.archlinux.org/title/Installation_guide
+
+To use Wi-Fi, please authenticate using \e[0;32miwctl\e[0m. For WWAN, please use \e[0;32mnmcli\e[0m.
+All other networks using DHCP should work automatically.
