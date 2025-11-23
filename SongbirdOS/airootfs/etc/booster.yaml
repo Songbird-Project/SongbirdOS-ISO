@@ -1,0 +1,2 @@
+compression: zstd
+extra_files: busybox
